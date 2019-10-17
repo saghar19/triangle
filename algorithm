@@ -1,0 +1,5 @@
+input=r
+input=h
+Area=A
+A=(r*h)/2
+print Area
